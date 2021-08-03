@@ -1,0 +1,2 @@
+rootProject.name = "Demo SchedulesNotification"
+include ':app'
